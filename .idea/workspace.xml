@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Vulkan_Specs" targetName="Vulkan_Specs" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_BUILD_TYPE=Debug -DBUILD_TYPE=1" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" GENERATION_OPTIONS="-DCMAKE_BUILD_TYPE=Release -DBUILD_TYPE=0" />
+      <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" GENERATION_OPTIONS="-DCMAKE_BUILD_TYPE=RelWithDebInfo -DBUILD_TYPE=0" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f078bc1a-2cec-4845-b9ad-d4aed15c9968" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9dymlo1p" />
+  </component>
+  <component name="ProjectId" id="1fJHCpejs7cVs8UzuINJC2oJfUT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Initialization" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="kill -9" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Vulkan_Specs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Vulkan_Specs" TARGET_NAME="Vulkan_Specs" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Vulkan_Specs" RUN_TARGET_NAME="Vulkan_Specs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f078bc1a-2cec-4845-b9ad-d4aed15c9968" name="Default Changelist" comment="" />
+      <created>1595929150476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595959167071</updated>
+      <workItem from="1595929152128" duration="7816000" />
+      <workItem from="1595957453658" duration="178000" />
+      <workItem from="1595957650817" duration="39000" />
+      <workItem from="1595957814676" duration="5000" />
+      <workItem from="1595958343077" duration="819000" />
+      <workItem from="1595959167241" duration="11908000" />
+      <workItem from="1595971095277" duration="2829000" />
+      <workItem from="1595976075605" duration="4000" />
+      <workItem from="1595976110450" duration="315000" />
+      <workItem from="1595986842194" duration="21000" />
+      <workItem from="1595991712326" duration="634000" />
+      <workItem from="1596018817511" duration="15349000" />
+      <workItem from="1596196880958" duration="441000" />
+      <workItem from="1596197353900" duration="115000" />
+      <workItem from="1596211064477" duration="5206000" />
+      <workItem from="1596316689192" duration="517000" />
+      <workItem from="1596380092314" duration="26175000" />
+      <workItem from="1596470172046" duration="74317000" />
+      <workItem from="1596795701372" duration="22620000" />
+      <workItem from="1597058035557" duration="486000" />
+      <workItem from="1597058539560" duration="8245000" />
+      <workItem from="1597075344231" duration="8594000" />
+      <workItem from="1597084764256" duration="4820000" />
+      <workItem from="1597090209362" duration="11739000" />
+      <workItem from="1597139361955" duration="602000" />
+      <workItem from="1597147425428" duration="1821000" />
+      <workItem from="1597150191802" duration="8111000" />
+      <workItem from="1597408757211" duration="7504000" />
+      <workItem from="1597420604324" duration="1398000" />
+      <workItem from="1597422666196" duration="3253000" />
+      <workItem from="1597426339007" duration="6823000" />
+      <workItem from="1597434835144" duration="3879000" />
+      <workItem from="1597470854862" duration="1310000" />
+      <workItem from="1597517648826" duration="4353000" />
+      <workItem from="1597564629842" duration="25456000" />
+      <workItem from="1597665079690" duration="42818000" />
+      <workItem from="1597775621679" duration="34834000" />
+      <workItem from="1598106247010" duration="10617000" />
+      <workItem from="1598162949760" duration="8135000" />
+      <workItem from="1598376086216" duration="8386000" />
+      <workItem from="1598717879379" duration="7000" />
+      <workItem from="1598717904335" duration="16000" />
+      <workItem from="1599488986300" duration="101000" />
+      <workItem from="1601546537681" duration="2784000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="73" key="#Inspections" timestamp="1596801291256">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="310" y="73" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1596801291256" />
+    <state x="364" y="0" key="#New_File_Extensions" timestamp="1597826739966">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="364" y="0" key="#New_File_Extensions/0.0.1366.768@0.0.1366.768" timestamp="1597826739966" />
+    <state x="562" y="246" key="#Vim_Emulation" timestamp="1596802789000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="562" y="246" key="#Vim_Emulation/0.0.1366.768@0.0.1366.768" timestamp="1596802789000" />
+    <state x="389" y="188" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1595959700527">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="389" y="188" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.768@0.0.1366.768" timestamp="1595959700527" />
+    <state x="140" y="57" width="1178" height="670" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597691306382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="140" y="57" width="1178" height="670" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597691306382" />
+    <state x="321" y="192" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597093018491">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="321" y="192" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1597093018491" />
+    <state x="446" y="0" width="470" height="768" key="#com.intellij.ide.util.MemberChooser" timestamp="1598124763859">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="446" y="0" width="470" height="768" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1598124763859" />
+    <state x="352" y="97" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597572520600">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="352" y="97" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1597572520600" />
+    <state x="180" y="115" key="#xdebugger.XInspectDialog" timestamp="1597689109223">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="180" y="115" key="#xdebugger.XInspectDialog/0.0.1366.768@0.0.1366.768" timestamp="1597689109223" />
+    <state x="383" y="250" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596584033489">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="383" y="250" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1596584033489" />
+    <state width="693" height="525" key="DebuggerActiveHint" timestamp="1597689958652">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="693" height="525" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1597689958652" />
+    <state x="20" y="399" width="654" height="345" key="DiffContextDialog" timestamp="1597689289077">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="20" y="399" width="654" height="345" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1597689289077" />
+    <state width="1266" height="227" key="GridCell.Tab.0.bottom" timestamp="1601658228573">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="227" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601658228573" />
+    <state width="1266" height="227" key="GridCell.Tab.0.center" timestamp="1601658228572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="227" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601658228572" />
+    <state width="1266" height="227" key="GridCell.Tab.0.left" timestamp="1601658228571">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="227" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601658228571" />
+    <state width="1266" height="227" key="GridCell.Tab.0.right" timestamp="1601658228573">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="227" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601658228573" />
+    <state width="1266" height="198" key="GridCell.Tab.1.bottom" timestamp="1598302483759">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598302483759" />
+    <state width="1266" height="198" key="GridCell.Tab.1.center" timestamp="1598302483759">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1598302483759" />
+    <state width="1266" height="198" key="GridCell.Tab.1.left" timestamp="1598302483759">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1598302483759" />
+    <state width="1266" height="198" key="GridCell.Tab.1.right" timestamp="1598302483759">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1266" height="198" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1598302483759" />
+    <state x="103" y="0" key="SettingsEditor" timestamp="1597735842143">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="103" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597735842143" />
+    <state x="562" y="313" key="SimpleOpenTaskDialog" timestamp="1595959161484">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="562" y="313" key="SimpleOpenTaskDialog/0.0.1366.768@0.0.1366.768" timestamp="1595959161484" />
+    <state width="661" height="352" key="XDebugger.FullValuePopup" timestamp="1597519317542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="661" height="352" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1597519317542" />
+    <state x="688" y="40" width="654" height="704" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1597078631748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="688" y="40" width="654" height="704" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1597078631748" />
+    <state x="575" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598107587648">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="575" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1598107587648" />
+    <state x="107" y="85" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597423715905">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="107" y="85" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1597423715905" />
+    <state x="299" y="0" width="764" height="768" key="find.popup" timestamp="1597082915312">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="299" y="0" width="764" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1597082915312" />
+    <state width="750" height="535" key="javadoc.popup" timestamp="1596197180093">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="750" height="535" key="javadoc.popup/0.0.1366.768@0.0.1366.768" timestamp="1596197180093" />
+    <state x="242" y="59" width="875" height="663" key="recent.locations.popup" timestamp="1597429873202">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="242" y="59" width="875" height="663" key="recent.locations.popup/0.0.1366.768@0.0.1366.768" timestamp="1597429873202" />
+    <state x="461" y="160" width="440" height="460" key="refactoring.ChangeSignatureDialog" timestamp="1597832895154">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="461" y="160" width="440" height="460" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1597832895154" />
+    <state x="261" y="177" width="840" height="1034" key="run.anything.popup" timestamp="1597732680578">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="261" y="177" width="840" height="1034" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1597732680578" />
+    <state x="260" y="0" width="840" height="766" key="search.everywhere.popup" timestamp="1598123125093">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="260" y="0" width="840" height="766" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598123125093" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BackgroundCheck.cpp</url>
+          <line>102</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BackgroundCheck.cpp</url>
+          <line>106</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

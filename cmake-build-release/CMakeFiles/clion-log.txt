@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_BUILD_TYPE=Release -DBUILD_TYPE=0 -G "CodeBlocks - Unix Makefiles" /home/cacoethes/CLionProjects/Vulkan_Specs
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cacoethes/CLionProjects/Vulkan_Specs/cmake-build-release

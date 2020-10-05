@@ -1,0 +1,3 @@
+/home/cacoethes/CLionProjects/Vulkan_Specs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cacoethes/CLionProjects/Vulkan_Specs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cacoethes/CLionProjects/Vulkan_Specs/cmake-build-debug/CMakeFiles/Vulkan_Specs.dir
